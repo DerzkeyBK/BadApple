@@ -1,0 +1,9 @@
+
+*.png
+/bin/*
+/ffmpeg-4.4-full_build/LICENSE
+/ffmpeg-4.4-full_build/README.txt
+/ffmpeg-4.4-full_build/presets/*
+/ffmpeg-4.4-full_build/doc/*
+/ffmpeg-4.4-full_build/bin
+/obj/debug/*
