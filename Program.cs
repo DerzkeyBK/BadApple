@@ -6,7 +6,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Xabe.FFmpeg;
+using Xabe.FFmpeg;//if this throws error just reinstall it
 
 namespace BadApple
 {
